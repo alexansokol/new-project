@@ -10,7 +10,6 @@ html, body {
 
 h1 {
     font-size: 36px;
-    color: #232323;
     margin: 0;
     text-align: center;
 }
@@ -18,13 +17,15 @@ h1 {
 nav {
     height: 36px;
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
 a {
     text-decoration: none;
+<<<<<<< HEAD
     color: green;
+=======
+>>>>>>> new-contacts
 }
 
 a:hover {
